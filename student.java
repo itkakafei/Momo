@@ -1,4 +1,4 @@
 class Stu
 {
-
+	int id;
 }
